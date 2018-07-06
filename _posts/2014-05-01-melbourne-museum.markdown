@@ -2,6 +2,7 @@
 layout: post
 category: photo
 title: Melbourne Museum
+show_excerpts: false
 intro: 
 image: /uploads/photosets/melbourne-museum/museum-1.jpg
 ---
