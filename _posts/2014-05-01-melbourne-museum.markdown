@@ -3,11 +3,11 @@ layout: post
 category: photo
 title: Melbourne Museum
 show_excerpts: false
-intro: 
-image: /uploads/photosets/melbourne-museum/museum-1.jpg
+excerpt_separator: <!--more-->
 ---
 
 ![](/uploads/photosets/melbourne-museum/museum-1.jpg)<BR><BR>
+<!--more-->
 ![](/uploads/photosets/melbourne-museum/museum-2.jpg)<BR><BR>
 ![](/uploads/photosets/melbourne-museum/museum-3.jpg)<BR><BR>
 ![](/uploads/photosets/melbourne-museum/museum-4.jpg)<BR><BR>
