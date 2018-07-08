@@ -5,6 +5,8 @@ brief:
 ---
 
 I guess I'm not entirely proud of the fact that I've been a smoker for a good long while — 9 years to be exact. For a long time now I've wanted to quit, I knew that quitting was the right thing to do, but I somehow always convinced myself that it would be easier to not bother. There was seemingly always a reason not to, but I finally made the decision to quit (just over a month ago) and since then I've noticed some bizarre changes in my life, things I’d not really anticipated and was genuinely shocked by.
+
+<!--more-->
 	
 ### Taste
 I have drunk coffee for years and in all that time I have only ever ordered my drink one way; Black, no sugar. I absolutely adored the bitter taste and as time went on I found that I was looking for more flavor, a lighter roast and different infusions of taste. At point I dare say, I even began drinking too much coffee and really had to scale back my intake so as to not make myself ill. It had been a long-lasting love affair, but within about two weeks of my quitting smoking, I found that I just couldn’t stand the bitter, dry-mouth inducing taste of my (previously essential) coffee.
