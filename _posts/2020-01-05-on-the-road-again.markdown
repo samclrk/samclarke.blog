@@ -2,6 +2,8 @@
 layout: post
 title: On the road again
 date: '2020-01-05 08:56:08'
+index: true
+sitemap: true
 ---
 
 I got my driving licence at 18 almost as soon as the DVLA's scheduling system would allow. I was fortunate enough to have both my parents spend countless hours sitting as my passenger while I drove hundreds (if not thousands) of miles with me on my provisional licence to help build up some real road experience before taking my test, which helped me to pass first time having only had a handful of lessons with an instructor.

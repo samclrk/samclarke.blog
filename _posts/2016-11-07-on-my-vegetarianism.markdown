@@ -4,6 +4,8 @@ title: On my Vegetarianism
 date: '2016-11-07 13:20:00'
 tags:
 - blog
+index: true
+sitemap: true
 ---
 
 Immediately I put an end to a lifelong habit, encouraging my daughter to do the same. Although it wasn’t easy, after a difficult month or so of explaining the reason why nail biting isn’t a good thing to do, reminding her to stop every time we notice and nagging as things hadn’t changed. We were still struggling to help her to stop, and so I decided to try a different approach, I got an anti-nail biting solution from our local pharmacy.

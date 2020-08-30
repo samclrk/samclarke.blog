@@ -2,6 +2,8 @@
 layout: post
 title: Yearly Goals
 date: '2019-12-31 20:49:13'
+index: true
+sitemap: true
 ---
 
 Taking some inspiration from [Derek Muller](https://www.youtube.com/user/1veritasium), [CGP Grey](https://www.youtube.com/user/CGPGrey) & [Myke Hurley](https://www.relay.fm/cortex/95) I'm writing down my goals for 2020 with the hope it'll increase my chances of actually achieving them. Trying to keep it short and to the point, I've got three goals:

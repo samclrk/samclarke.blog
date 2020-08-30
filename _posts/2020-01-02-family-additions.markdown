@@ -2,6 +2,8 @@
 layout: post
 title: Family Additions
 date: '2020-01-02 08:43:52'
+index: true
+sitemap: true
 ---
 
 It struck me on my way to the office this morning, that it's been so long since I wrote here regularly, that we've had a bit of a change to the shape of our family since I last updated.

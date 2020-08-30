@@ -4,6 +4,8 @@ title: Long Shot
 date: '2020-01-18 08:31:00'
 tags:
 - movie
+index: true
+sitemap: true
 ---
 
 Loved this movie, the kind of feel good film we don't get very often at the moment.

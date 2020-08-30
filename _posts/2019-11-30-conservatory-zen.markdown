@@ -2,6 +2,8 @@
 layout: post
 title: Conservatory Zen
 date: '2019-11-30 13:26:05'
+index: true
+sitemap: true
 ---
 
 We picked up the keys to our current house on boxing day last year and after a week or so of cleaning, we packed up and moved out of our old house in a single day. We were absolutely sick of the place we were living in - having only moved there as our previous landlord had decided to sell that house.
