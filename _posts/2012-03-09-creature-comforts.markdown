@@ -2,6 +2,8 @@
 layout: post
 title: Creature comforts
 date: '2012-03-09 22:05:00'
+index: true
+sitemap: true
 ---
 
 Following on from my post about our move to Australia, I thought it would be a good time to write about how I’ve been thinking about moving to other countries in the past and what some of the decisions have been based on. I wouldn’t say I’m a particularly fussy person by nature, it would just appear I’ve developed habits based on requirement.

@@ -2,6 +2,8 @@
 layout: post
 title: Where the hell have I been?
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>Sat here, half way through finishing off a post I shall publish in the coming days, I realised I hadn&rsquo;t posted on here for quite some time! As such, there is a hell of a lot to write about.. That said, I will compress this astounding story in to a small number of paragraphs, just the right size for my attention span to cope with.<!--more--></p>

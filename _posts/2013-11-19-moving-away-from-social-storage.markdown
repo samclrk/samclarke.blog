@@ -2,6 +2,8 @@
 layout: post
 title: Moving Away From Social Storage
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve long been a user of many different online services over the years I&rsquo;ve been online, from some of the early social networking tools right the way up to the now more common and much more involved and automatic life-logging services. I&rsquo;d always been a great fan of these kinds of applications, especially those which allowed me to upload, store and share my pictures.</p>

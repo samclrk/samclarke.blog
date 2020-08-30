@@ -2,6 +2,8 @@
 layout: post
 title: Keeping Busy
 date: '2012-06-16 10:05:00'
+index: true
+sitemap: true
 ---
 
 <p>When we first began planning the move to Australia, Charleigh and I both knew that during the interim, whilst we apart, we&rsquo;d both have to keep pretty busy. Mainly for the sake of sanity, but also to be as effective as possible in the process of getting our move underway.<!--more--></p>

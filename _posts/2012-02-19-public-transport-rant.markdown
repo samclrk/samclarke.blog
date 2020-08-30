@@ -2,6 +2,8 @@
 layout: post
 title: Public Transport Rant
 date: '2012-02-19 00:00:00'
+index: true
+sitemap: true
 ---
 
 <p>So it may well seem like I&rsquo;m just generally moaning at all public transport, I have to be honest, I am. It&rsquo;s shit. </p>

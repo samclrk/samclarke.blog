@@ -2,6 +2,8 @@
 layout: post
 title: The end of an era
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p><img class=" wp-image-371 alignleft" title="Bon Voyage!" src="assets/aa1c1196abe411e1b00112313800c5e4_7-300x300.jpg" alt="" width="240" height="240" />Today certainly marks the end of an era for me&hellip; After almost 3 years of back and forth between the office and home, these are my last few hours in the ChannelAdvisor London office! I&rsquo;ve really enjoyed working here and this is by no means the last time I shall ever visit, but for the next couple of weeks I&rsquo;ll be working from home until I fly out to Australia!</p>

@@ -2,6 +2,8 @@
 layout: post
 title: Stress
 date: '2011-12-13 11:05:00'
+index: true
+sitemap: true
 ---
 
 <p>I am by no means aiming to write a comparative post, this is not about some situations being more stressful than others, I just feel it would be worth me writing this down.</p>

@@ -2,6 +2,8 @@
 layout: post
 title: Social Commerce
 date: '2011-11-12 11:05:00'
+index: true
+sitemap: true
 ---
 
 <p>As you may or may not know, I work in ecommerce. As such there&rsquo;s always a lot of discussion in the office about emerging markets and different ways through which people are able to purchase online. Typically these tend to be things like new markets, opportunities in other countries and even new ways of marketing your own website.</p>

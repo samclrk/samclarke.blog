@@ -2,6 +2,8 @@
 layout: post
 title: The wait is finally over!
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>If you were awake at the ungodly hour of 10:30am (Australian time) today, you may have noticed me frantically tweeting that the wait is finally over.. Charleigh and Ellie&rsquo;s VISAs have been approved!<!--more--></p>

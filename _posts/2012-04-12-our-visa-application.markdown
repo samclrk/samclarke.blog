@@ -2,6 +2,8 @@
 layout: post
 title: Our VISA application
 date: '2012-04-12 21:07:00'
+index: true
+sitemap: true
 ---
 
 I’m starting to get slightly irritated with the process of my VISA application…

@@ -2,6 +2,8 @@
 layout: post
 title: Is there a thing as too much technology?
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve often thought about just how much technology I have, generally I think if I really have a need for half the things I own, or if it&rsquo;s really more of a desire to have, use and play with the items I buy. Generally speaking I don&rsquo;t own <i>that</i> much, but I do question just how many of these things I could get rid of and still live my life as I have done?<!--more--><br />

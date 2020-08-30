@@ -2,6 +2,8 @@
 layout: post
 title: Moving to Australia
 date: '2012-03-06 22:04:00'
+index: true
+sitemap: true
 ---
 
 Charleigh and I have both been sitting extremely quiet on some big news for a little while now. I recently applied for a new role within my company, in our Melbourne office. For weeks we’ve been waiting and today I was finally told the role was mine! This news is absolutely fantastic for all of us (Charleigh, Ellie and myself). There’s nothing quite like a new start especially when it comes with all the challenges/fun facing us when we land down-under!

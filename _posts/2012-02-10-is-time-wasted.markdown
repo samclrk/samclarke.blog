@@ -2,6 +2,8 @@
 layout: post
 title: Is time wasted?
 date: '2012-02-10 11:05:00'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve always been really good at managing my time, as I described in my last post I have a huge client list, but manage to stay on top of it whilst also helping out other colleagues. Sometimes though, I feel that my time would be better spent on other tasks?</p>

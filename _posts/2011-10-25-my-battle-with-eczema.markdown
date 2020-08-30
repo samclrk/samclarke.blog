@@ -2,6 +2,8 @@
 layout: post
 title: My Battle With Eczema
 date: '2011-10-25 10:05:00'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve suffered with eczema since birth, I remember from a very young age visiting the doctors and various dermatologists as I was (As you can imagine) fairly self-concious about the way it made me look. Obviously my concerns with this affliction were not all based on my appearance, whilst that was a large factor (Not being able to wear black as it was my dry skin was clearly visible being a notable pain in the arse) there were other pains from this disease too.</p>

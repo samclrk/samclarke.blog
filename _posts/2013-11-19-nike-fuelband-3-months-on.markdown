@@ -2,6 +2,8 @@
 layout: post
 title: Nike+ Fuelband - 3 months on
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p style="text-align: left;">I&#39;ve had my Nike+ Fuelband now for just over 3 months.. In that time I&#39;ve worn it every day, without fail. I absolutely love it! But, let me backup a little bit here and run through what I was initially after.</p>

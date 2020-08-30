@@ -2,6 +2,8 @@
 layout: post
 title: Is the rest of your meal adequate?
 date: '2011-11-07 11:05:00'
+index: true
+sitemap: true
 ---
 
 <p>This weekend, Charleigh and I made our way up to Worcester. It&rsquo;s becoming something we seem to more less frequently, but still - I relish the opportunity to get out of London, even if it&rsquo;s just for 48 hours! We &ldquo;landed&rdquo; around 10pm Friday night after an arduous journey from the far side of the M25, right up to the top of the &ldquo;eye-wateringly&rdquo; boring M40. By that time I was pretty knackered, although, Charleigh has managed to bag herself an hour or so worth of sleep, which I guess was nice for her? haha.</p>

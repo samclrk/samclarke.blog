@@ -2,6 +2,8 @@
 layout: post
 title: The next step
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>So as I sit here on the monotonous journey back to Greenwich (which, for the purpose of this we&rsquo;ll call home. You see I&rsquo;ve been living with my girlfriend for a couple of months now), I&rsquo;m contemplating what our next steps will be. Earlier this week, I asked Charleigh if she would move in with me!</p>

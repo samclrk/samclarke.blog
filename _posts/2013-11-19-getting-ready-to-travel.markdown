@@ -2,6 +2,8 @@
 layout: post
 title: Getting ready to travel
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I love time off, who doesn&rsquo;t? But there&rsquo;s always that mammoth task of having to organise everything which is the slight downer on the lead up to your holiday&hellip;</p>

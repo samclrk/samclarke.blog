@@ -2,6 +2,8 @@
 layout: post
 title: Never go on holiday
 date: '2012-02-06 11:05:00'
+index: true
+sitemap: true
 ---
 
 <p>It&rsquo;s been said many times, if you go on holiday you won&rsquo;t have a job to come back to. That&rsquo;s really not so, but the case here is if you go on holiday, you&rsquo;ll wish you hadn&rsquo;t!</p>

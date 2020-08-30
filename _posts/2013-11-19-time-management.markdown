@@ -2,6 +2,8 @@
 layout: post
 title: Time Management
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>Last week, Charleigh and I had a long conversation about the different methods of time management, ranging from personal time to work time. Essentially what we were working on was an ideal way in which we could impart good life skills and practices on to Ellie without it seeming like that was our aim. We eventually came to a conclusion which we&rsquo;ve started putting in to practise this week and seems to be working fairly well so far!</p>

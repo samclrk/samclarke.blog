@@ -2,6 +2,8 @@
 layout: post
 title: Travel Plans
 date: '2011-12-29 21:58:00'
+index: true
+sitemap: true
 ---
 
 I recently uploaded the above picture to Instagram, as a view to everywhere I’ve been in 2011. Whilst I’m sure some may find that impressive, for me, I don’t think it really is. I’ve always loved travelling, such as the old saying goes “It’s not about the destination, it’s about the journey” and I love journeys. You’re able to see so much, places, people, iconic buildings, beautiful scenery, it’s all there to go and see!

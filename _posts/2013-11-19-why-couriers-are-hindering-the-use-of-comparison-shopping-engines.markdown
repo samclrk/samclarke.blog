@@ -2,6 +2,8 @@
 layout: post
 title: Why couriers are hindering the use of comparison shopping engines
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve been working in online retail now (in one capacity or another) for almost 8 years, so I like to think that gives me the ability to talk fairly openly about what I&rsquo;ve learned, but also allow me to make predictions for the future of retail. Some time ago now I moved away from using the term e-commerce, for the very simple reason that the &lsquo;e&rsquo; stopped being relevant almost completely all together.</p>

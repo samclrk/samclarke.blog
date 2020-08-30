@@ -2,6 +2,8 @@
 layout: post
 title: 'Scan Number 1: Our Baby''s Life So Far'
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>This week saw the first in a line of exciting events for us as a family, as we went to an appointment at Future Medial Imaging Group, for our initial ultrasound. We found out just a couple of weeks ago that Charleigh and I were expecting a baby together and we&rsquo;ve been really taken back by just how impressive the Australian Healthcare system can be. Within a day of having confirmation from our doctor that we were indeed expecting, Charleigh had already completed her first round of blood tests and we were booking ourselves back with our GP to hear the results.</p>

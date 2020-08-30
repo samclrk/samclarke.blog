@@ -2,6 +2,8 @@
 layout: post
 title: The desire to travel more
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve not really always wanted to travel&hellip; Sure, I&rsquo;ve always enjoyed going new places and as a family when my brother and I were younger, we went plenty of places! Surprisingly the majority of places we went for a long period of time were within the UK! Genuinely, there is so much, so close to home, that no one pays attention to. That said, when I was younger I had a horrible fear of flying, so didn&rsquo;t have any mad aspirations to travel the world.</p>

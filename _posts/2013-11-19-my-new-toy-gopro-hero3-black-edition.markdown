@@ -2,6 +2,8 @@
 layout: post
 title: 'My New Toy: GoPro Hero3 Black Edition'
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>For the past couple of months I&rsquo;ve been lusting over a Go Pro. For years now I&rsquo;ve had an affinity with life-logging, I think I&rsquo;ve proven that  to myself with the array of cameras I&rsquo;ve owned along with the amount I constantly update/check-in, but this time I wanted to move to the next level.</p>

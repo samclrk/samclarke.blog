@@ -2,6 +2,8 @@
 layout: post
 title: TFL Rant
 date: '2011-10-03 10:05:00'
+index: true
+sitemap: true
 ---
 
 <p>Every now and again I have a bit of a rant&hellip; It usually goes along with the premise that TFL couldn&rsquo;t organise a piss up in a brewery. </p>

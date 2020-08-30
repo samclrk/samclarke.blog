@@ -2,6 +2,8 @@
 layout: post
 title: On Apple and the iPhone 5
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve always been fairly hesitant to write anything about subjects like this, mainly because so many other people do and quite frankly, I just don&rsquo;t want their opinions&hellip;</p>

@@ -2,6 +2,8 @@
 layout: post
 title: I'm obsessed with obsession
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>For the past couple of years, I&rsquo;ve really tried to get obsessed, but the only thing I seem to be able to obsess over, is in fact other people&rsquo;s obsessions.</p>

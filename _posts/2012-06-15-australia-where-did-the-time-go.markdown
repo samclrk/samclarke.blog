@@ -2,6 +2,8 @@
 layout: post
 title: Australia - Where did the time go?
 date: '2012-06-15 10:05:00'
+index: true
+sitemap: true
 ---
 
 Well it’s official, I’m in Melbourne! The trip was incredible, given I &nbsp;think it’s just about the longest trip you could make from anywhere, it &nbsp;was all very smooth! My first flight from London to Singapore lasted &nbsp;about 12 hours, but was fantastic. I flew on an A380, so there was &nbsp;plenty of room and I’m surprised to say, even the food was good! I had a &nbsp;4 hour layover at Chingai airport, but the place was huge! I spent a &nbsp;good few hours walking around the shops and even had time for a drink &nbsp;and a look around the butterfly house!

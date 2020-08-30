@@ -2,6 +2,8 @@
 layout: post
 title: On how the west destroyed the east
 date: '2012-06-16 10:05:00'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ll try to write this from a fairly neutral perspective, though given what I&rsquo;ve seen so far on my travels and my personal thoughts towards this subject, that may be slightly difficult.<!--more--></p>

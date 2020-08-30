@@ -2,6 +2,8 @@
 layout: post
 title: The perfect interview? Look no further
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;ve always been a massive fan of watching/listening to interviews, I love to learn more about people, especially the people I deem to be idols (In one form or another). Through the years I&rsquo;ve been watching interviews online, one host has stood head and shoulder above the rest when it comes to preparation, knowledge of his guests, depth of his questions and his ability to retort to answers he would have not heard before hand.</p>

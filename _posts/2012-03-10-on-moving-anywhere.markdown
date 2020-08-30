@@ -2,6 +2,8 @@
 layout: post
 title: On moving anywhere
 date: '2012-03-10 22:06:00'
+index: true
+sitemap: true
 ---
 
 I think it’s worth bearing in mind at the point, that I’ve moved up and down the country countless times, I don’t particularly find moving house difficult by any means. I tend to have a fairly set way of going about moving and that also includes a basic “to do” list to go with it!

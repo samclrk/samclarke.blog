@@ -2,6 +2,8 @@
 layout: post
 title: Australia - One step closer
 date: '2012-05-16 10:05:00'
+index: true
+sitemap: true
 ---
 
 <p>We&rsquo;re not quite there yet&hellip; We&rsquo;ve still a long list of tasks to accomplish before we officially move, but nonetheless as of today, we&rsquo;re one step closer to our move! First thing this morning, I finally, officially, submitted our VISA application! It&rsquo;s taken quite some time to get this far, as we&rsquo;re a &ldquo;De Facto&rdquo; couple, the amount of evidence we need to supply is utterly endless. It&rsquo;s been a strain to be perfectly honest, we&rsquo;ve gone back and forth with our immigration lawyers for weeks, so I&rsquo;m very happy to say that we&rsquo;ve reached the end of the first phase of our move!</p>

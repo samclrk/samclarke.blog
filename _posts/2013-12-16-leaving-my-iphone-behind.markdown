@@ -2,6 +2,8 @@
 layout: post
 title: Leaving My iPhone Behind
 date: '2013-12-16 00:00:00'
+index: true
+sitemap: true
 ---
 
 ​I've been an Apple fan for years now. I feel I've dothed my cap to the tech giant many times over the years and have even managed to sway a few other to become converts of the company responsible for some of the greatest innovations.

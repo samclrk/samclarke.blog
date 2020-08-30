@@ -2,6 +2,8 @@
 layout: post
 title: My Everyday Carry
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/sam_clarke/8982183513/"><img class="wp-image-249 aligncenter" alt="My Everyday Carry" src="assets/Everyday-Carry-1024x682.jpg" width="1024" height="682" /></a></p>

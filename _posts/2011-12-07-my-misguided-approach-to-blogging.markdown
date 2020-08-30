@@ -2,6 +2,8 @@
 layout: post
 title: My misguided approach to blogging
 date: '2011-12-07 11:05:00'
+index: true
+sitemap: true
 ---
 
 <p>My name is Sam Clarke and I&rsquo;m a half arsed blogger.</p>

@@ -2,6 +2,8 @@
 layout: post
 title: The Wrong Priorities
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>I&rsquo;m a terrible procrastinator. While ostensibly it may not look that way, I somehow constantly find time to be surfing through various blogs, laughing at the typical meme, even now there&rsquo;s probably something else I should be doing rather than typing this up. Spending so much time online has caused me to become inconsiderate, it&rsquo;s caused me to pay less attention to people, and that&rsquo;s something I just don&rsquo;t want.</p>

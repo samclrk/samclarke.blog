@@ -2,6 +2,8 @@
 layout: post
 title: I need a hobby...
 date: '2013-11-19 11:05:19'
+index: true
+sitemap: true
 ---
 
 <p>One thing spending (so far) 7 weeks away from Charleigh has taught me, is that I really don&rsquo;t have much to do in my spare time. I&rsquo;ve always been fairly active, from a young age my brother and I had tons of hobbies&hellip; Music, Rock climbing, cycling, kayaking, all sorts of stuff! But as I&rsquo;ve got older I seem to have pushed those things further and further down my priority list.<!--more--></p>
