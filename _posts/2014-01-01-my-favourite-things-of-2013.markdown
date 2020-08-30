@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My Favourite Things of 2013
+index: true
+sitemap: true
 ---
 
 2013 has been a fantastic year for myself and my family, and I really can't wait for what's to come in the new year. In keeping with usual internet tradition, I thought I'd put together my top few moments of this year (in no particular order).

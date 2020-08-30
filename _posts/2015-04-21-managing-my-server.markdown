@@ -2,6 +2,8 @@
 layout: post
 title: Managing my Server
 comments: true
+index: false
+sitemap: true
 ---
 
 It’s been a couple of weeks now since I first got FreeNAS up and running on my home server. It wasn’t quite as easy as advertised, I came across a couple of issues (one of which is still unsolved) but for the most part things are now running smoothly. You can read about the build and getting FreeNAS running, here and now, I’m looking at how I can improve the current set up, getting the most out of it.

@@ -2,6 +2,8 @@
 layout: post
 title: 10 Wonderful Questions
 intro: My answers to Bernard Pivot's famous interview questions.
+index: true
+sitemap: true
 ---
 
 I'm a huge fan of James Liptons 'Inside the Actors Studio' series of interviews with members of both stage and screen. He creates incredible, thought provoking conversation and highlights performances both on and off camera that really allow us to connect with his prestigious guests. A tradition of Liptons, prior to the 'Classroom Session' Q&A, is to ask his guest 10 questions originally designed by French journalist, Bernard Pivot. Always enamored by the answers brought out at Pace University's New York City campus, I thought I would do my best to honor the Actors Studio.

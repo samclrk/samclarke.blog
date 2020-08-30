@@ -2,6 +2,8 @@
 layout: post
 headimage: /uploads/2015/02/packing.jpg
 title: My Trip Pack List
+index: true
+sitemap: true
 ---
 Fuck, I love lists. I love categorising my lists, subcategorising my lists, managing hierarchy and source finding. Shit, If I had gone to Universtity I think Harvard Referencing would have been a hobby of mine. In fact, I probably make too many lists, so this isn't a list.
 

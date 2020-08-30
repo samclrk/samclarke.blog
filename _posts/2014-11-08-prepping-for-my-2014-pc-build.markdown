@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Prepping for my 2014 PC Build
+index: true
+sitemap: true
 ---
 
 I've invested pretty heavily in an increasingly slender and lightweight range of Macbooks for a long time now. From the pre-unibody days of the Plastic Macbook to the Haswell based 2013 Macbook Air that I'm running today. They've always served me incredibly well, and for the forseeable future will remain my goto; both for work and for the heavier use that my iPad just isn't capable of supporting.  

@@ -4,6 +4,8 @@ category: photo
 title: Melbourne Museum
 show_excerpts: false
 excerpt_separator: <!--more-->
+index: true
+sitemap: true
 ---
 
 ![](/uploads/photosets/melbourne-museum/museum-1.jpg)<BR><BR>

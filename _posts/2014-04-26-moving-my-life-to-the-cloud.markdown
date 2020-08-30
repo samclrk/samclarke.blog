@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Moving My Life to the Cloud
+index: true
+sitemap: true
 ---
 
 For the past 2 years I’ve been running the majority of my life from my Macbook Pro and it’s been absolutely fantastic. I even upgraded it last year by removing the optical disk drive and replacing it with an SSD drive. This not only made the laptop boot and run much faster (I also moved my boot partition to the SSD), but also allowed me to upgrade the original 500GB drive to a 1TB drive.

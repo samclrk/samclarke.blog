@@ -1,6 +1,8 @@
 ---
 layout: post
 title: I'm Going Vegetarian
+index: false
+sitemap: true
 ---
 
 I've put a lot of thought in to this over that past year, but I've finally made the decision to remove meat from my diet all together.

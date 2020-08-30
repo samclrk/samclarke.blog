@@ -4,6 +4,8 @@ image:
   feature: nas-setup.jpg
 title: Attempting to Set Up FreeNAS
 comments: true
+index: true
+sitemap: true
 ---
 
 Backups have always been a double edged sword for me.  I either didn't back up frequently enough, or poorly planned my redundancy. Several times I've ended up losing data all together, through my own bad backup habits. A few years ago I'd pretty much resigned myself to pulling a full hard drive backup every couple of weeks, splitting it across a couple of drives (just in case) and repeating the process for each of my machines. That was until, I started using Dropbox.

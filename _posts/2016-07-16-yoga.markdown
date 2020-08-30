@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Yoga 
+index: true
+sitemap: true
 ---
 
 I've never, as such, been against yoga - But only very recently have I begun to see the benefits of the discipline. After what amounts to only an hour of total practise, I've very quickly changed my opinion and am now looking to make it a part of my everyday routine.

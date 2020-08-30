@@ -2,6 +2,8 @@
 layout: post
 title: I Quit Smoking and Learned a Few Things
 brief: 
+index: true
+sitemap: true
 ---
 
 I guess I'm not entirely proud of the fact that I've been a smoker for a good long while — 9 years to be exact. For a long time now I've wanted to quit, I knew that quitting was the right thing to do, but I somehow always convinced myself that it would be easier to not bother. There was seemingly always a reason not to, but I finally made the decision to quit (just over a month ago) and since then I've noticed some bizarre changes in my life, things I’d not really anticipated and was genuinely shocked by.

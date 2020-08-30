@@ -2,6 +2,8 @@
 layout: post
 title: Long Tweets/Short Posts
 intro: I wish there was a better way to deal with content too long for twitter, but not long enough for a dedicated blog post.
+index: true
+sitemap: true
 ---
 
 I wish there was a better way to deal with content too long for twitter, but not long enough for a dedicated blog post.
