@@ -2,7 +2,7 @@
 sitemap: true
 ---
 
-## Blog
+## Archive
 
 {% assign indexable_posts = site.posts | where: "index",true %}
 
