@@ -1,8 +1,6 @@
 ---
 ---
 
-
-
 {% assign indexable_posts = site.posts | where: "index",true %}
 
 {% unless indexable_posts.size == 0 %}
