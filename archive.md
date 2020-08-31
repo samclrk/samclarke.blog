@@ -16,7 +16,7 @@ There aren't any posts here yet. Check back soon!
       <div id='month'>{{ post.date | date: "%b %Y" }}</div>
     </div>
     <div id='overview'>
-      <div id='title'>{% include tag-pages.html %}<a href="{{ post.url }}">{{ post.title }}</a></div>
+      <div id='title'>{% include tags-pages.html %}<a href="{{ post.url }}">{{ post.title }}</a></div>
       <div id='excerpt'>{{ post.excerpt | strip_html | truncatewords: 10 }}</div>
     </div>
   </div>
