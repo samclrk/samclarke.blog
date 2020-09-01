@@ -18,3 +18,5 @@ defaults:
 
 repository: smclrk/samclarke.blog
 permalink: pretty
+
+jekyll-mentions: https://twitter.com

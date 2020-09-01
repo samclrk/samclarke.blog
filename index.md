@@ -1,4 +1,4 @@
----
+--- 
 ---
 
 {% assign indexable_posts = site.posts | where: "index",true %}
