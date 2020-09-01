@@ -6,6 +6,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-mentions
 
 #baseurl: "/"
 
@@ -19,4 +20,5 @@ defaults:
 repository: smclrk/samclarke.blog
 permalink: pretty
 
-jekyll-mentions: https://twitter.com
+jekyll-mentions:
+  base_url: https://twitter.com
