@@ -65,3 +65,8 @@ div.blogpost div#overview div#excerpt {
 	text-decoration: none;
 	font-size: 1em;
 }
+
+img[src*="#avatar"] {
+   max-width:100px;
+   padding-right: 20px;
+}
