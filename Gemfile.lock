@@ -244,6 +244,8 @@ PLATFORMS
 DEPENDENCIES
   activesupport (>= 6.0.3.1)
   github-pages
+  jekyll-mentions
+  kramdown
 
 BUNDLED WITH
    2.1.4
