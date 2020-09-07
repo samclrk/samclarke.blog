@@ -66,7 +66,15 @@ div.blogpost div#overview div#excerpt {
 	font-size: 1em;
 }
 
-img[src*="#avatar"] {
-   max-width:100px;
-   padding-right: 20px;
+.avatar {
+    float: left;
+    max-width:100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.intro {
+    margin-left: 120px;
+    padding-top: 10px;
+    height: 120px;
 }

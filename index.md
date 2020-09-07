@@ -1,6 +1,11 @@
 --- 
 ---
 
+
+<div class="avatar"><img src="assets/images/avatar.png"></div>
+
+<div class="intro">I'm Sam, a Product Manager from the UK. For the last decade I've infrequently written about my life, technology, the books I'm reading and films I'm watching. I'm pro-cannabis and have more recently begun to write about my experiences with using it to manage anxiety and stress. </div>
+
 {% assign indexable_posts = site.posts | where: "index",true %}
 
 {% unless indexable_posts.size == 0 %}
