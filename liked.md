@@ -24,7 +24,7 @@ fetch(PROXY_URL + RSS_URL)
         <li>
          <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">
             <strong>
-              ${el.querySelector("title").innerHTML}
+              ${el.querySelector("title").textContent}
             </strong>
             </a>
           ${url.hostname.replace('www.', '')}
