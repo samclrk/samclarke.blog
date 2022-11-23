@@ -1,5 +1,5 @@
-name: samclarke.blog
-title: samclarke.blog
+name: sam.clrk.space
+title: samclarke's online space
 
 plugins:
   - jekyll-feed
