@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "58b4048a4489c1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "09e1d372636e65d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "065e83e3a57b8bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What I’m using instead of Google.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ce5c146402a47cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "23a70af24c11b488",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6d229768aedf973",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a720e2012cf7f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a1323720bbbf2be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b270ecdec092b6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdedf018fea65497",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0edc0f3770f145c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e7bf5e0a20f15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0203d690618f27a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What I’m using instead of Google.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04bd94f24d12d6b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "What I’m using instead of Google.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd5a9d036e457c40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "947e688c5159f59c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "What I’m using instead of Google.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "065e83e3a57b8bb0",
+  "lastOpenFiles": [
+    "My own kind of project management.md",
+    "Credits.md",
+    "Finding the best way to use my Macbook and iPad together.md",
+    "What I’m using instead of Google.md",
+    "Backing up my backups.md",
+    "Plant powered.md",
+    "My Virtual Private Cloud.md",
+    "My typical day.md",
+    "Hidden Note.md",
+    "Test note.md"
+  ]
+}
