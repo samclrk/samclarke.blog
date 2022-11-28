@@ -1,0 +1,11 @@
+---
+layout: post
+title: Wool
+date: '2020-03-21 19:00:00'
+tags:
+- book
+index: true
+sitemap: true
+---
+
+This was absolutely stellar - The writing was so beautifully descriptive, the story so captivating. Can't wait to move on to the second book in the series. 10/10

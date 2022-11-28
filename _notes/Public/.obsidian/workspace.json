@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What I’m using instead of Google.md",
+                "file": "My typical day.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "0ec9f8c6fe93566c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -85,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 432.5
   },
   "right": {
     "id": "0edc0f3770f145c3",
@@ -101,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What I’m using instead of Google.md",
+                "file": "My typical day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What I’m using instead of Google.md",
+                "file": "My typical day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What I’m using instead of Google.md"
+                "file": "My typical day.md"
               }
             }
           }
@@ -154,15 +162,15 @@
   },
   "active": "065e83e3a57b8bb0",
   "lastOpenFiles": [
-    "My own kind of project management.md",
-    "Credits.md",
-    "Finding the best way to use my Macbook and iPad together.md",
+    "What I’m using instead of Twitter.md",
     "What I’m using instead of Google.md",
-    "Backing up my backups.md",
-    "Plant powered.md",
     "My Virtual Private Cloud.md",
     "My typical day.md",
-    "Hidden Note.md",
-    "Test note.md"
+    "Credits.md",
+    "Backing up my backups.md",
+    "Plant powered.md",
+    "My own kind of project management.md",
+    "Finding the best way to use my Macbook and iPad together.md",
+    "Hidden Note.md"
   ]
 }

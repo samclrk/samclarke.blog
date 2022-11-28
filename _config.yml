@@ -30,7 +30,7 @@ permalink: pretty
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
 heading: Sam Clarke # Change this 
-content: A digital gardem
+content: A digital garden
 copyright:  
   year: © 2022
   msg: Sam Clarke 
@@ -74,6 +74,9 @@ collections:
     blog:
       output: true
       permalink: /blog/:title
+    books:
+      output: true
+      permalink: /book/:title
 
 markdown: kramdown
 
@@ -101,6 +104,12 @@ defaults:
     values:
       layout: post
       content-type: notes
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: post
+      content-type: books
 
 
 # Exclude from processing.

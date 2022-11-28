@@ -1,4 +1,0 @@
-Plant powered
-
-
-
