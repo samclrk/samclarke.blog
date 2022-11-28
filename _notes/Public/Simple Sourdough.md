@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Simple Sourdough
 date: '2021-01-03 14:45:09'
+tags:
+- recipe
 feed: show
-date: 11-05-2022
-format: list
 ---
 
 [Jump straight to the recipe ↵](#ingredients)
@@ -99,3 +100,4 @@ Replace the lid and **leave in the middle of the oven for 30 minutes**. Once the
 Minding not to burn yourself on the dutch oven, gently **turn your dough on to a cooling rack** and allow to **cool completely before cutting open** and digging in!
 
 I hope you enjoy this recipe!
+

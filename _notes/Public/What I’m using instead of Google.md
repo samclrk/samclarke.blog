@@ -1,6 +1,6 @@
 ---
 title: What I’m using instead of Google
-feed: show
+feed: hide
 date: 11-05-2022
 ---
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My typical day.md",
+                "file": "Simple Sourdough.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My typical day.md",
+                "file": "Simple Sourdough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My typical day.md",
+                "file": "Simple Sourdough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My typical day.md"
+                "file": "Simple Sourdough.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "065e83e3a57b8bb0",
   "lastOpenFiles": [
-    "What I’m using instead of Twitter.md",
     "What I’m using instead of Google.md",
-    "My Virtual Private Cloud.md",
     "My typical day.md",
+    "Simple Sourdough.md",
+    "What I’m using instead of Twitter.md",
+    "My Virtual Private Cloud.md",
     "Credits.md",
     "Backing up my backups.md",
     "Plant powered.md",
     "My own kind of project management.md",
-    "Finding the best way to use my Macbook and iPad together.md",
-    "Hidden Note.md"
+    "Finding the best way to use my Macbook and iPad together.md"
   ]
 }
